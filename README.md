@@ -67,25 +67,10 @@ If you're looking for a dynamic teammate to transform data into actionable insig
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 BI & Visualization
+### 📊 Visualization
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;&nbsp;&nbsp;![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<!-- Replace YOUR_USERNAME with your actual GitHub username for these to display -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=10)
-
-</div>
-
----
-
-<div align="center">
 
 ### 🎯 "Without data, you're just another person with an opinion." – W. Edwards Deming
 
