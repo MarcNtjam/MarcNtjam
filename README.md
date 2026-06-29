@@ -24,7 +24,9 @@
 
 Welcome to my corner of GitHub! 👋
 
-I'm a **Data Scientist** passionate about turning data into practical insights and intelligent solutions that support better decision-making. My work combines **data analysis, machine learning, business intelligence, and predictive analytics** to help organizations improve efficiency, engagement, and overall performance. I have experience in **SQL database management** with tools such as **PostgreSQL**, as well as data cleaning, exploration, visualization, and predictive modeling. Using **Python, SQL, Excel, Power BI, and Tableau**, I transform complex datasets into clear reports, dashboards, and insights that support strategic decisions. What drives me is using data not only to understand *what has happened*, but also to **identify opportunities, predict trends, and create better outcomes** for businesses and people.
+  I'm a **Data Scientist** passionate about turning data into practical insights and intelligent solutions that support better decision-making. My work combines **data analysis, machine learning, business intelligence, and predictive analytics** to help organizations improve efficiency, engagement, and overall performance. 
+  I have experience in **SQL database management** with tools such as **PostgreSQL**, as well as data cleaning, exploration, visualization, and predictive modeling. Using **Python, SQL, Excel, Power BI, and Tableau**, I transform complex datasets into clear reports, dashboards, and insights that support strategic decisions. 
+    What drives me is using data not only to understand *what has happened*, but also to **identify opportunities, predict trends, and create better outcomes** for businesses and people.
 
 </div>
 
