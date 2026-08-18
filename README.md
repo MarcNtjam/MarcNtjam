@@ -57,7 +57,7 @@ If you're looking for a dynamic teammate to transform data into actionable insig
 
 ### 🤖 Data Science & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)&nbsp;&nbsp;&nbsp;![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)&nbsp;&nbsp;&nbsp;![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)&nbsp;&nbsp;&nbsp;![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)&nbsp;&nbsp;&nbsp;![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)&nbsp;&nbsp;&nbsp;![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-3499CD?style=for-the-badge)&nbsp;&nbsp;&nbsp;![XGBoost](https://img.shields.io/badge/XGBoost-006600?style=for-the-badge)&nbsp;&nbsp;&nbsp;![PyCaret](https://img.shields.io/badge/PyCaret-2596BE?style=for-the-badge)
 
 ### 💻 Programming Languages
 
